@@ -1,7 +1,7 @@
 Rock-Paper-Scissors 
 
 Minimal AI Game Referee using Google ADK with clean tool separation.
-
+**Note : Update the API key **
 State Model
 Single dictionary holds all game state:
 ```python
@@ -79,7 +79,3 @@ Score: You 1 - Bot 0
 ...
 ```
 
-
-- **Clear flow**: Linear progression through tools matches game logic
-
-Total: **~100 lines** of clean, testable code that meets all requirements.
